@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "269407006182",
+    "firebase_url": "https://project-704964245187516316.firebaseio.com",
+    "project_id": "project-704964245187516316",
+    "storage_bucket": "project-704964245187516316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269407006182:android:4d4dca0fdab31490",
+        "android_client_info": {
+          "package_name": "veve.youtubecommentsv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269407006182-a1i2iel5s3v3a4ho7irabnpn5bta82hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "veve.youtubecommentsv2",
+            "certificate_hash": "95562736ECADD81A386C73E14DD8EBB24A6E3B79"
+          }
+        },
+        {
+          "client_id": "269407006182-67btvhr88t2l4gunmupp849lilltqj6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQKYVBy5DNY3BW5uTGWbSy9tXeY-BRAD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269407006182-67btvhr88t2l4gunmupp849lilltqj6t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269407006182-m0sge03tcku6slu0pups9g04rbaut8g5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Veve.YC"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

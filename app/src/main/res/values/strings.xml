@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Youtubecommentsv2</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="create_account">Create Account</string>
+    <string name="id">id</string>
+</resources>
